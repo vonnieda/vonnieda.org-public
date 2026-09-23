@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+	<channel>
+		<title>AVRFuses Changelog</title>
+		<link>http://www.vonnieda.org/AVRFUses/appcast.xml</link>
+		<description>Changes and updates for AVRFuses by Jason von Nieda</description>
+		<language>en</language>
+		<item>
+				<title>Version 1.5.2</title>
+				<pubDate>Sun, 16 Feb 2020 17:20:00 -0500</pubDate>
+				<description>
+						<![CDATA[
+								<li>App is now notarized by Apple so it should install without any warnings.
+						]]>
+				</description>
+
+				<enclosure
+				url="http://vonnieda.org/wp-content/uploads/2020/02/AVRFuses_1.5.2.zip"
+				sparkle:version="1.5.2"
+				type="application/octet-stream"
+				length="2309221"
+				sparkle:dsaSignature="MCwCFEaqw0yYQztVqm/zQY6foZgviI5sAhRd0rh5DHksJGpwKKd19DZWfWhTGA=="
+				/>
+		</item>
+		<item>
+				<title>Version 1.5.1</title>
+				<pubDate>Sun, 16 Feb 2020 11:07:00 -0500</pubDate>
+				<description>
+						<![CDATA[
+								<li>Rebuilt and signed so that it will run on MacOS Catalina.
+						]]>
+				</description>
+
+				<enclosure
+				url="http://vonnieda.org/wp-content/uploads/2020/02/AVRFuses_1.5.1.zip"
+				sparkle:version="1.5.1"
+				type="application/octet-stream"
+				length="2307808"
+				sparkle:dsaSignature="MC0CFQCfv9xRnu7rAyOPHFDrK0WqXHU38AIUf6b2pg7qwwQ0IKhFQ3rxLynBY5c="
+				/>
+		</item>
+		<item>
+				<title>Version 1.5.0</title>
+				<pubDate>Fri, 6 Oct 2017 20:00:00 -0500</pubDate>
+				<description>
+						<![CDATA[
+								<li>Adds a new Projects menu that makes it easy to manage settings for various projects.
+								<li>avrdude now runs in the background so that the UI does not lock up during operations.
+								<li>Thank you to @trol73 for these nice improvements!
+						]]>
+				</description>
+
+				<enclosure
+				url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.5.0.zip"
+				sparkle:version="1.5.0"
+				type="application/octet-stream"
+				length="977939"
+				sparkle:dsaSignature="MC0CFQC/JZk+OAUbJ69wpjb34HkYzz6RDgIUAgiqJ37krFzjH1RDtf7qYzAa3+8="
+				/>
+		</item>
+		<item>
+				<title>Version 1.4.13</title>
+				<pubDate>Mon, 21 Mar 2017 20:00:00 -0500</pubDate>
+				<description>
+						<![CDATA[
+								<li>Fixes a crash in the auto detect function.
+						]]>
+				</description>
+
+				<enclosure
+				url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.4.13.zip"
+				sparkle:version="1.4.13"
+				type="application/octet-stream"
+				length="968187"
+				sparkle:dsaSignature="MC4CFQDEgqQzkd6J0PXGhpwpTfe4qYSCXgIVAKSI2bRQjPmAA92F79A55p8l39Mi"
+				/>
+		</item>
+		<item>
+				<title>Version 1.4.12</title>
+				<pubDate>Mon, 6 Mar 2017 08:48:00 -0500</pubDate>
+				<description>
+						<![CDATA[
+								<li>Rebuild of 1.4.11 with support for older versions of OS X.
+						]]>
+				</description>
+
+				<enclosure
+				url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.4.12.zip"
+				sparkle:version="1.4.12"
+				type="application/octet-stream"
+				length="968034"
+				sparkle:dsaSignature="MC0CFB7Nslw7G58B/io01z02Sc1gyLIwAhUAxziI0FbfAr4wxJUl6d/Q2QnBBBo="
+				/>
+		</item>
+		<item>
+				<title>Version 1.4.11</title>
+				<pubDate>Sun, 12 Feb 2017 08:48:00 -0500</pubDate>
+				<description>
+						<![CDATA[
+								<li>Adds Auto Detect for device type. Thank you to @trol73 for this feature!
+						]]>
+				</description>
+
+				<enclosure
+				url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.4.11.zip"
+				sparkle:version="1.4.11"
+				type="application/octet-stream"
+				length="977465"
+				sparkle:dsaSignature="MC0CFQDUMxu/Mfx1Etj84MwWXXhcbTR0xAIUGqVS9EEFjNeg6bZTMOlmmfXooSQ="
+				/>
+		</item>
+		<item>
+				<title>Version 1.4.10</title>
+				<pubDate>Sun, 03 Apr 2016 14:39:00 -0700</pubDate>
+				<description>
+						<![CDATA[
+								<li>Updates device definitions to latest. No code changes.
+						]]>
+				</description>
+
+				<enclosure
+				url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.4.10.zip"
+				sparkle:version="1.4.10"
+				type="application/octet-stream"
+				length="972405"
+				sparkle:dsaSignature="MC0CFAmwf8PGKHXGTuN4CQYhU1t73gRlAhUA0Cym8UcE6NBi0iQQMPk4pqwFWRs="
+				/>
+		</item>
+		<item>
+				<title>Version 1.4.9</title>
+				<pubDate>Mon, 02 Mar 2015 23:38:00 -0700</pubDate>
+				<description>
+						<![CDATA[
+								<li>Adds the ability to copy text from the log window along with an edit menu for same. Thanks @ascorbic!
+						]]>
+				</description>
+
+				<enclosure
+				url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.4.9.zip"
+				sparkle:version="1.4.9"
+				type="application/octet-stream"
+				length="966892"
+				sparkle:dsaSignature="MCwCFBS94wfmHiCd8bdv6j/Za2TXu3kFAhQB1IykrVPYsPJkKtvAufphtCHeTQ=="
+				/>
+		</item>
+        <item>
+            <title>Version 1.4.8</title>
+            <pubDate>Sun, 09 Feb 2014 18:43:00 -0700</pubDate>
+            <description>
+                <![CDATA[
+                    <li>Fixes a bug where enumerated values would not have a full description shown. Thanks Luke!
+                    <li>Fixes a bug where enumerated values with high masks would sometimes have the wrong value.
+                    <li>Makes the window wider by default to account for longer value names.
+                ]]>
+            </description>
+
+            <enclosure
+            url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.4.8.zip"
+            sparkle:version="1.4.8"
+            type="application/octet-stream"
+            length="962229"
+            sparkle:dsaSignature="MCwCFA8vIFqJ7VRfmT9WneI8HH+X2U6cAhQk4/6CDTyYCKaQndusgQ0FxNjaqw=="
+            />
+        </item>
+		<item>
+			<title>Version 1.4.7</title>
+			<pubDate>Sat, 07 Apr 2013 20:45:51 -0700</pubDate>
+			<description>
+				<![CDATA[
+				    <li>Note: This replaces 1.4.6 from one day ago which had several horrible bugs.
+                    <li>The first new release is almost four years! Thanks for all the feedback, and keep it coming!
+					<li>Integrated new part information.
+					<li>Added text fields showing current fuse values and which allow you to type in a fuse value to have it loaded into the checkboxes.
+					<li>Added bit clock option, needed when programming slower devices with some programmers.
+				]]>
+			</description>
+
+			<enclosure
+            url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.4.7.zip"
+            sparkle:version="1.4.7"
+            type="application/octet-stream"
+            length="964520"
+            sparkle:dsaSignature="MC0CFQCmsxti2/Eh5hX8xftXgnFJbnqdpwIUXaVHoqy4eZCAicvF297Kuh+s6lE="
+			/>
+		</item>
+		<item>
+			<title>Version 1.4.4</title>
+			<pubDate>Thu, 23 Apr 2009 20:26:51 -0700</pubDate>
+			<description>
+				<![CDATA[
+					<li>Added avrdude command line logging to log window at the request of several users. This is configurable via the Preferences.
+					<li>Integrated new part information.
+					<li>Added some coloration to different log messages to help differentiate what is happening.
+					<li>Added .eep to the list of acceptable file types for EEPROM read/write/verify.
+					<li>Upgraded Sparkle framework to current version.
+				]]>
+			</description>
+
+			<enclosure
+				url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.4.4.zip"
+				sparkle:version="1.4.4"
+				type="application/octet-stream"
+				length="1755506"
+				sparkle:dsaSignature="MC0CFQDBnJj2NepU5LUk9HNIMZa+85i8sQIUW6qBdU6nwtTLpiwlrWbhtTfDdng="
+			/>
+		</item>
+		<item>
+			<title>Version 1.4</title>
+			<description>
+				<![CDATA[
+					<li>Fixed issue with checking for updates on startup not being disableable.
+					<li>Made window resizable.
+					<li>Cleaned up avrdude argument building code.
+					<li>Made port optional; required for some programmers.
+					<li>Made port a drop down containing common ports found on the system for easier selection.
+					<li>Added setting for baud rate; used for serial based programmers.
+					<li>Started work on Lock Bits editor but decided to hold it for 1.5. This release needed to get out now. Lock Bits removed for now.
+				]]>
+			</description>
+			<pubDate>Thu, 6 Mar 2008 00:01:00 +0000</pubDate>
+			<enclosure
+			    url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.4.zip"
+			    length="1091604"
+			    type="application/octet-stream"
+			/>
+		</item>
+		<item>
+			<title>Version 1.3</title>
+			<description>
+				<![CDATA[
+					<li>Added avrdude error logging to log window on operation failures.
+					<li>Added support for automatic updates using Sparkle.
+				]]>
+			</description>
+			<pubDate>Tue, 18 Dec 2007 00:01:00 +0000</pubDate>
+			<enclosure
+			    url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.3.zip"
+			    length="2114855"
+			    type="application/octet-stream"
+			/>
+		</item>
+		<item>
+			<title>Version 1.2</title>
+			<description>
+				<![CDATA[
+					<li>Test release to check Sparkle support.
+				]]>
+			</description>
+			<pubDate>Mon, 17 Dec 2007 00:01:00 +0000</pubDate>
+			<enclosure
+			    url="http://vonnieda.org/wp-content/uploads/2008/03/AVRFuses_1.2.zip"
+			    length="2114849"
+			    type="application/octet-stream"
+			/>
+		</item>
+	</channel>
+</rss>
